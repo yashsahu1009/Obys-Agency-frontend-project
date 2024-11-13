@@ -53,7 +53,7 @@ let videoContainer = document.querySelector("#video-container");
 let video = document.querySelector("#video-container video");
 videoContainer.addEventListener("mousemove", (dets) => {
   gsap.to("#video-cursor", {
-    left: dets.x - 570,
+    left: dets.x - 530,
     top: dets.y - 300,
   });
 });

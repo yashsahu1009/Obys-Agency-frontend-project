@@ -216,6 +216,7 @@
     font-size: 1vw;
     font-weight: 500;
   }
+  
   .hero {
     /* background-color: red; */
     width: 72%;
@@ -327,7 +328,7 @@
     background-color: #151515;
     position: relative;
     padding: 12vh 2vw;
-    margin-top: -120px;
+    margin-top: -130px;
   }
   
   #page3 h1 {
@@ -392,6 +393,7 @@
     -o-object-position: center;
     object-position: center;
   }
+  
   
   .page3-circle1 {
     height: 23vw;
